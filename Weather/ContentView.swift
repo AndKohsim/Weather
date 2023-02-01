@@ -14,6 +14,9 @@ struct ContentView: View {
             ZStack {
                 LinearGradient(gradient: Gradient(colors: [Color.green, Color.blue]), startPoint: .topLeading, endPoint: .bottomTrailing)
                     .edgesIgnoringSafeArea(.all)
+                Text("SIUUUUUUUUUU")
+                Text("SIUUUUUUUUUU")
+                Text("SIUUUUUUUUUU")
                 VStack{
                     TextField("Skriv by", text: $cityName)
                         .padding()
