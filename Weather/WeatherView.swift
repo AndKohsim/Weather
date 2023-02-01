@@ -13,6 +13,11 @@ struct WeatherView: View {
             LinearGradient(gradient: Gradient(colors: [Color.green, Color.blue]), startPoint: .topLeading, endPoint: .bottomTrailing)
                 .edgesIgnoringSafeArea(.all)
             Text("Weather app")
+            Text("Weather app")
+            Text("Weather app")
+            Text("Weather app")
+            Text("Weather app")
+            Text("Weather app")
         }
     }
 }
